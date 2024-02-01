@@ -1,5 +1,7 @@
 Qix par Nathanel Erik et Andrei-Ionut Achirecesei
 
+Lancer qix.py pour jouer.
+
 ### PREMIER RENDU ###
 
 Lancer le fichier qix.py en faisant attention à ce que tous les modules et images soient dans le même répertoire.
