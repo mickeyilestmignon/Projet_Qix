@@ -1,4 +1,4 @@
-Qix par Nathanel Erik et Andrei-Ionut Achirecesei
+Qix par Andrei-Ionut Achirecesei
 
 Lancer qix.py pour jouer.
 
